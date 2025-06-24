@@ -27,6 +27,8 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
+  const audio = document.getElementById("love-music");
+  audio.play(); // Tự động phát ngay sau khi người dùng click hợp lệ
   titleElement.innerHTML = "Anh cũng iu bé ,Chúc em ngủ ngoan nè ! Love mà You !!!!!!";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
