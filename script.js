@@ -46,7 +46,7 @@ function generateMessage(noCount) {
   const messages = [
     "Không cóa yêu",
     "Cho Hoanh chọn lại đóa ",
-    "Em không tìm được ai thương em như anh đâu :< ",
+    "Anh nguyện dâng hiến trái tim này ",
     "Đừng mà công chúa của anh",
     "Em đang làm trái tim anh tan nát đó",
     "Anhhh iu bé nhắm nhunnn đóoooo",
